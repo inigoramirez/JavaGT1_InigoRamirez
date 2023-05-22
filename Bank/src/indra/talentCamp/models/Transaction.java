@@ -2,13 +2,13 @@ package indra.talentCamp.models;
 
 public abstract class Transaction {
 
-	private BankAccount account;
-	private int amount;
+	private int accountNumber;
+	private double amount;
 	private String type;
 	
-	public Transaction(BankAccount account, int amount, String type) {
+	public Transaction(int accountNumber, double amount, String type) {
 		// TODO Auto-generated constructor stub
-		this.account = account;
+		this.accountNumber = accountNumber;
 		this.amount = amount;
 		this.type = type;
 	}

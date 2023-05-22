@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=Class6/src&lt;indra.talentCamp.polymorphism.models{Player.java[Player" modifiers="1025" timestamp="1684390389241"/>
+    <typeInfo handle="=Class6/src&lt;indra.talentCamp.polymorphism.models{Animal.java[Animal" modifiers="1025" timestamp="1684390729694"/>
+    <typeInfo handle="=Class7/src&lt;indra.talentCamp.interfaces{Circle.java[Circle" modifiers="1" timestamp="1684316512954"/>
+    <typeInfo handle="=Class7/src&lt;indra.talentCamp.interfaces{Figure.java[Figure" modifiers="1025" timestamp="1684316523962"/>
+    <typeInfo handle="=Class8/src&lt;indra.talentCamp.relaciones.composite{Operation.java[Operation" modifiers="1025" timestamp="1684399336543"/>
+    <typeInfo handle="=Bank/src&lt;indra.talentCamp.models{BankAccount.java[BankAccount" modifiers="1025" timestamp="1684410112905"/>
+</typeInfoHistroy>

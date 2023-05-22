@@ -2,9 +2,9 @@ package indra.talentCamp.models;
 
 public class Deposit extends Transaction {
 
-	public Deposit(BankAccount account, int amount) {
+	public Deposit(int accountNumber, double amount) {
 		// TODO Auto-generated constructor stub
-		super(account,amount,"Deposit");
+		super(accountNumber,amount,"Deposit");
 	}
 
 }

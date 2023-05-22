@@ -27,8 +27,8 @@ public class Program {
 						new Multiplication(4.0,3.0)
 				));
 		
-		//System.out.println("5 + 3 * 8 + 4 * 3 = " + calculation3.calculate());
-		//System.out.println(5 + 3 * 8 + 4 * 3 == calculation3.calculate());
+		System.out.println("5 + 3 * 8 + 4 * 3 = " + calculation3.calculate());
+		System.out.println(5 + 3 * 8 + 4 * 3 == calculation3.calculate());
 		
 		String expression = "5+3*8+4*3";
 		
